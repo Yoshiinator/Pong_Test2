@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Paddle
+  - Ball
+  - leftScoreText
+  - rightScoreText
+  - HelpWindow
+  - close_help
+  - Resultpanel
+  - Restart_button
+  - PaddleRight
+  - PaddleLeft
+  - ScoreBoard
+  - Background
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - gameobj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1296699285
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: gameobj
+    uniqueID: 4128646133
+    locked: 0
+  m_RenderingLayers:
+  - Default
